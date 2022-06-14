@@ -19,3 +19,31 @@
     background-image: url("Graybg.png");
     background-size: cover;
 }
+
+.subnavistyle{
+    font-family: 'Times New Roman', Times, serif;
+    color: navy;
+    font-size: larger;
+}
+
+.textstyle{
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+
+}
+
+.textstyle2{
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+    text-align: center;
+}
+
+.facebookstyle{
+    color: blue;
+}
+
+.boldtext{
+    font-weight: bold;
+}
