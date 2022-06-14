@@ -1,0 +1,21 @@
+.leftmenu{
+    top: 90px;
+    left: 5px;
+    width: 300px;
+    bottom: 32px;
+    z-index: 1;
+    padding-top: 45px;
+}
+
+.mainbody{
+    top: 114px;
+    bottom: 64px;
+    left: 114px;
+    right: 114px;
+    padding-right: 5px;
+}
+
+.bgimage{
+    background-image: url("Graybg.png");
+    background-size: cover;
+}
